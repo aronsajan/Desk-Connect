@@ -1,6 +1,0 @@
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InterProcessCommunicator\bin\Release\InterProcessCommunicator.dll.config
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InterProcessCommunicator\bin\Release\InterProcessCommunicator.dll
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InterProcessCommunicator\bin\Release\InterProcessCommunicator.pdb
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InterProcessCommunicator\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InterProcessCommunicator\obj\Release\InterProcessCommunicator.dll
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InterProcessCommunicator\obj\Release\InterProcessCommunicator.pdb

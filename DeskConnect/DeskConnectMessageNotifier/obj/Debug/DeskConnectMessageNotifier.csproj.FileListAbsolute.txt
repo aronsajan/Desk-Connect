@@ -1,8 +1,0 @@
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectMessageNotifier\bin\Debug\DeskConnectMessageNotifier.exe
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectMessageNotifier\bin\Debug\DeskConnectMessageNotifier.pdb
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectMessageNotifier\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectMessageNotifier\obj\Debug\DeskConnectMessageNotifier.MessageNotifierWindow.resources
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectMessageNotifier\obj\Debug\DeskConnectMessageNotifier.Properties.Resources.resources
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectMessageNotifier\obj\Debug\DeskConnectMessageNotifier.csproj.GenerateResource.Cache
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectMessageNotifier\obj\Debug\DeskConnectMessageNotifier.exe
-C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectMessageNotifier\obj\Debug\DeskConnectMessageNotifier.pdb
