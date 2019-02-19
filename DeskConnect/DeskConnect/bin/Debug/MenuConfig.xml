@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<MenuList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Menu>
+    <Name>Home</Name>
+    <HandlerDLL>HomeControl.HomeUserControl, HomeControl</HandlerDLL>
+    <Icon>MenuHome.PNG</Icon>
+  </Menu>
+  <Menu>
+    <Name>Instant Messaging</Name>
+    <HandlerDLL>InstantMessage.MessageUserControl, InstantMessage</HandlerDLL>
+    <Icon>Messaging.PNG</Icon>
+  </Menu>
+  <Menu>
+	<Name>Service Manager</Name>
+	<HandlerDLL>SystemServiceHandler.ServiceHandlerUI, SystemServiceHandler</HandlerDLL>
+	<Icon>Service.PNG</Icon>
+  </Menu>
+   <Menu>
+	<Name>Process Manager</Name>
+	<HandlerDLL>ProcessManagerUI.ProcessManagerControl, ProcessManagerUI</HandlerDLL>
+	<Icon>Process.PNG</Icon>
+  </Menu>
+  <Menu>
+	<Name>Batch Executor</Name>
+	<HandlerDLL>BatchProcessorUI.BatchProcessorScreenUI, BatchProcessorUI</HandlerDLL>
+	<Icon>BatchIcon.PNG</Icon>
+  </Menu>
+  <Menu>
+	<Name>About</Name>
+	<HandlerDLL>DeskConnectDetails.AboutPage, DeskConnectDetails</HandlerDLL>
+	<Icon>About.PNG</Icon>
+  </Menu>
+  <Menu>
+	<Name>Exit</Name>
+	<HandlerDLL>ExitApplication.ExitPage, ExitApplication</HandlerDLL>
+	<Icon>Exit.PNG</Icon>
+  </Menu>
+</MenuList>

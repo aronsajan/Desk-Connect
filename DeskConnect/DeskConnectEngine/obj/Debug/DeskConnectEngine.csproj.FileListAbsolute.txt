@@ -1,0 +1,7 @@
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectEngine\bin\Debug\DeskConnectEngine.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectEngine\bin\Debug\DeskConnectEngine.pdb
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectEngine\obj\Debug\DeskConnectEngine.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectEngine\obj\Debug\DeskConnectEngine.pdb
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectEngine\bin\Debug\InterProcessCommunicator.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectEngine\bin\Debug\InterProcessCommunicator.pdb

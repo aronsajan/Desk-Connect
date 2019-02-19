@@ -1,0 +1,8 @@
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectDetails\bin\Debug\DeskConnectDetails.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectDetails\bin\Debug\DeskConnectDetails.pdb
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectDetails\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectDetails\obj\Debug\DeskConnectDetails.AboutPage.resources
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectDetails\obj\Debug\DeskConnectDetails.csproj.GenerateResource.Cache
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectDetails\obj\Debug\DeskConnectDetails.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectDetails\obj\Debug\DeskConnectDetails.pdb
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\DeskConnectDetails\obj\Debug\DeskConnectDetails.Properties.Resources.resources

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{30887212-CEE6-4883-8A19-741D0308CF39}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DeskConnectEngine</RootNamespace>
+    <AssemblyName>DeskConnectEngine</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="InterProcessCommunicator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\InterProcessCommunicator\bin\Debug\InterProcessCommunicator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About\Details.cs" />
+    <Compile Include="CoreSystem\BatchSubsystem\BatchExecuteParameters.cs" />
+    <Compile Include="CoreSystem\BatchSubsystem\BatchFile.cs" />
+    <Compile Include="CoreSystem\BatchSubsystem\ExecuteBatchFile.cs" />
+    <Compile Include="CoreSystem\CommandExecutor\ExecutionManager.cs" />
+    <Compile Include="CoreSystem\CommandExecutor\LocalExecutor\LocalExecutionManager.cs" />
+    <Compile Include="CoreSystem\CommandExecutor\RemoteExecutor\RemoteExecutionManager.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\CommandPacket\PackCommand.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\CommandPacket\PacketElements.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\HelperClass\Helper.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\CommandPacket\UnpackCommand.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\Receiver\ReceiveBase.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\Receiver\ReceiveCommand.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\Receiver\ReceiveResult.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\ResultPacket\PackResult.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\ResultPacket\ResultPacketElement.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\ResultPacket\UnpackResult.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\Transmitter\TransmitBase.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\Transmitter\TransmitCommand.cs" />
+    <Compile Include="CoreSystem\CommandTransReceiver\Transmitter\TransmitResult.cs" />
+    <Compile Include="CoreSystem\DeskConnectSubsystem\SystemListDataRepository\ConfigurationManager.cs" />
+    <Compile Include="CoreSystem\DeskConnectSubsystem\SystemListDataRepository\SystemAttributes.cs" />
+    <Compile Include="CoreSystem\DeskConnectSubsystem\SystemListDataRepository\SystemRepository.cs" />
+    <Compile Include="CoreSystem\DeskConnectSubsystem\SystemListDataRepository\SystemRepositoryRoot.cs" />
+    <Compile Include="CoreSystem\ExecutionResult.cs" />
+    <Compile Include="CoreSystem\ExecutionResultType.cs" />
+    <Compile Include="CoreSystem\IExecute.cs" />
+    <Compile Include="CoreSystem\InstantMessenger\MessageParameters.cs" />
+    <Compile Include="CoreSystem\InstantMessenger\MessageExecutor.cs" />
+    <Compile Include="CoreSystem\IResult.cs" />
+    <Compile Include="CoreSystem\NetworkSubsystem\NetworkParameters.cs" />
+    <Compile Include="CoreSystem\NetworkSubsystem\NetworkReceiver\NetworkReceive.cs" />
+    <Compile Include="CoreSystem\NetworkSubsystem\NetworkSender\NetworkSend.cs" />
+    <Compile Include="CoreSystem\ProcessSubsystem\ListAllProcesses.cs" />
+    <Compile Include="CoreSystem\ProcessSubsystem\ProcessParameters.cs" />
+    <Compile Include="CoreSystem\ProcessSubsystem\StartProcess.cs" />
+    <Compile Include="CoreSystem\ProcessSubsystem\StopProcess.cs" />
+    <Compile Include="CoreSystem\ServiceSubsystem\ServiceListResult.cs" />
+    <Compile Include="CoreSystem\ServiceSubsystem\ListAllServices.cs" />
+    <Compile Include="CoreSystem\ServiceSubsystem\ServiceParameters.cs" />
+    <Compile Include="CoreSystem\ServiceSubsystem\StartService.cs" />
+    <Compile Include="CoreSystem\ServiceSubsystem\StopService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

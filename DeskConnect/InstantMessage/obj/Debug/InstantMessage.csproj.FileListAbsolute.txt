@@ -1,0 +1,11 @@
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\bin\Debug\InstantMessage.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\bin\Debug\InstantMessage.pdb
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\obj\Debug\InstantMessage.MessageUserControl.resources
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\obj\Debug\InstantMessage.csproj.GenerateResource.Cache
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\obj\Debug\InstantMessage.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\obj\Debug\InstantMessage.pdb
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\bin\Debug\InterProcessCommunicator.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\bin\Debug\InterProcessCommunicator.pdb
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\bin\Debug\DeskConnectEngine.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\InstantMessage\bin\Debug\DeskConnectEngine.pdb

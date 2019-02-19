@@ -1,0 +1,8 @@
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\ExitApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\ExitApplication\obj\Debug\ExitApplication.ExitPage.resources
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\ExitApplication\obj\Debug\ExitApplication.csproj.GenerateResource.Cache
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\ExitApplication\bin\Debug\ExitApplication.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\ExitApplication\bin\Debug\ExitApplication.pdb
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\ExitApplication\obj\Debug\ExitApplication.dll
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\ExitApplication\obj\Debug\ExitApplication.pdb
+C:\Users\Aron Sajan Philip\Documents\Visual Studio 2008\Projects\DeskConnect\ExitApplication\obj\Debug\ExitApplication.Properties.Resources.resources
